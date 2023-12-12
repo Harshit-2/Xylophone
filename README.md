@@ -1,4 +1,4 @@
-![App Brewery Banner](Xylophone-iOS13Documentation/AppBreweryBanner.png)
+![App Brewery Banner](Xylophone-iOS13/Documentation/AppBreweryBanner.png)
 
 # Xylophone
 
